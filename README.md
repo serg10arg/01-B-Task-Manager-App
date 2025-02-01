@@ -61,6 +61,14 @@ task-manager-app/
 
 ## 🖼️ Capturas de pantalla
 
+### Lista de tareas
+![Lista de tareas](screenshots/01-Task-manager.png)
+
+### Formulario de tareas
+![Formulario de tareas](screenshots/02-Task-form.png)
+
+![Lista de tareas completadas](screenshots/03-Task-manger.png)
+
 
 
 
